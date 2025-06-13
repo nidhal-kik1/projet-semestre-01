@@ -1,0 +1,2 @@
+set SQLALCHEMY_DATABASE_URI=postgresql://postgres:hazem26@localhost/project
+
